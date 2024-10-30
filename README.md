@@ -2,6 +2,10 @@
 
 This is the Pytorch implementation of our paper, PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation.
 
+```
+pip install -r .\requirements.txt
+pip install -r .\requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
 ## Experiment Setup
 
 First enter the following path:
